@@ -1,0 +1,1 @@
+This is Melannie's first git project!
